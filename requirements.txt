@@ -9,3 +9,4 @@ langgraph
 chromadb==0.5.23
 python-dotenv
 protobuf==3.20.3
+pysqlite3-binary
