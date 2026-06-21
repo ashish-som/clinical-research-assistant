@@ -6,6 +6,6 @@ langchain-core
 langchain-text-splitters
 langchain-chroma
 langgraph
-chromadb
+chromadb==0.5.23
 python-dotenv
 protobuf==3.20.3
